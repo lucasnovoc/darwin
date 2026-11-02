@@ -1,0 +1,27 @@
+# Material y notas locales
+bibliografia/
+docs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+.pytest_cache/
+
+# Salidas de simulación
+results/
+netlists/
+*.raw
+!src/darwin/results/
+
+# Archivos del PDK (no se distribuyen)
+*.osdi
+IHP-Open-PDK/
+
+.vscode/
+.idea/
+.DS_Store

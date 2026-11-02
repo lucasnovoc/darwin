@@ -1,0 +1,10 @@
+.git
+bibliografia/
+docs/
+**/__pycache__/
+**/*.pyc
+.venv/
+venv/
+results/
+netlists/
+*.raw
